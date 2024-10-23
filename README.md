@@ -1,4 +1,5 @@
-# Projects Description
+# Project Description's
+
 1. Insurance Upgrades:
 The major focus of the project is to design and develop a system for tracking and managing upgrades of insurance policies. The other main areas of concern are the design of a database for storing information about customers, policies, and transactions, and the implementation of analytics in view of gaining insights into customer behavior, policy upgrade trends, and business opportunities. It enhances the decision-making process in an insurance company by automating and streamlining the upgrade process.
 
